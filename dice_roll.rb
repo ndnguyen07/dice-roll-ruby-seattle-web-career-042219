@@ -6,6 +6,4 @@ def roll
   # code goes here
   rand(1..6)
 end
-
-Array.new(6) { rand(1...6) }
   
