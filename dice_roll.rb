@@ -9,4 +9,5 @@ end
 
 dice = [1,2,3,4,5,6]
 
-def 
+def rand_dice_roll()
+  
